@@ -107,3 +107,6 @@ export default {
 - [x] 增加默认值
 - [x] 增加正则校验
 - [ ] 增加接口配置 单选多选下拉框 内容
+
+## 感谢
+创作感谢 [maoyl](https://github.com/maoyl/el-form-design) 提供基础版本
